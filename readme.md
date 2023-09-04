@@ -13,9 +13,9 @@
 
 </div>
 
-## Introduction
+## Overview
 ---
-리뷰메이트는 ~~~
+리뷰메이트는 고객의 리뷰를 통해 여행 상품의 구매 전환율을 상승시키는 리뷰 통합 관리 플랫폼입니다.
 
 
 ## Contents
@@ -26,6 +26,11 @@
 - 바
 - 사
 
+## 프로젝트 기획
+- Product vision
+- User Stories
+- Usecase Diagram
+- 
 ## 🛠 Tech Stacks
 ### Back-end
 ### Front-end
@@ -41,11 +46,17 @@
    
 ### AI
 
-### etc
-
 ## 👥 Members
+---
 
 |Reader / Backend|                      Frontend|Data / AI|
 | :------------------------------------------: | :------------------------------------------------: | :----------------------------------------------: |
 ![](https://avatars.githubusercontent.com/u/49567744?v=4?size=100) | ![](https://avatars.githubusercontent.com/u/65444249?v=4?size=120) | ![](https://avatars.githubusercontent.com/u/61009093?v=4?size=120) |
 |  [Kwon Soonchan](https://github.com/hyeonic)  |  [So Hyeonjin](https://github.com/gudonghee2000)  |  [Jang Hyunwoo](https://github.com/summerlunaa)  |
+
+
+
+### ETC
+---
+- 중간 발표자료 [pdf](./files/2-18.%20소마트리뷰%20(발표자료).pdf) [ppt](./files/리뷰메이트_중간발표자료%20(최종).pptx)
+- 
