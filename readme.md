@@ -29,6 +29,8 @@
 - [User Story](./User_Story.md)
 - [Usecase Diagram](./Usecase_Diagram.md)
 
+## 서비스 아키텍처
+![](image/서비스%20아키텍처.png)
 
 ## 🛠 Tech Stacks
 ### Back-end
