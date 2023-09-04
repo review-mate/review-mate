@@ -13,12 +13,11 @@
 </div>
 
 ## Overview
----
+
 리뷰메이트는 고객의 리뷰를 통해 여행 상품의 구매 전환율을 상승시키는 리뷰 통합 관리 플랫폼입니다.
 
 
 ## Contents
----
 - 가나다
 - 라
 - 마
@@ -26,27 +25,21 @@
 - 사
 
 ## 프로젝트 기획
-- Product vision
-- User Stories
-- Usecase Diagram
-- 
+- [Product vision](./Product_Vision.md)
+- [User Story](./User_Story.md)
+- [Usecase Diagram](./Usecase_Diagram.md)
+
+
 ## 🛠 Tech Stacks
 ### Back-end
 ### Front-end
 
-### 1. 사진 넣기?
+### (사진 편집중)
 ![](https://user-images.githubusercontent.com/11745691/197112888-c634aecc-fe5b-4087-94f9-cd4d0c4ab553.png) 
-### 2. 뱃지로 넣기?
-<p align="center">
-<img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&t&logo=Python&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/-Java8-e74c3c?style=flat-square&t&logo=Java&logoColor=FFFFFF"/>
-</p>
-
-둘 중 하나로ㄱㄱ
    
 ### AI
 
 ## 👥 Members
----
 
 |Reader / Backend|                      Frontend|Data / AI|
 | :------------------------------------------: | :------------------------------------------------: | :----------------------------------------------: |
@@ -56,6 +49,5 @@
 
 
 ### ETC
----
 - 중간 발표자료 [pdf](./files/2-18.%20소마트리뷰%20(발표자료).pdf) [ppt](./files/리뷰메이트_중간발표자료%20(최종).pptx)
 - 
