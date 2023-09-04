@@ -43,8 +43,8 @@
 
 ## 👥 Members
 
-|Reader / Backend|                      Frontend|Data / AI|
-| :------------------------------------------: | :------------------------------------------------: | :----------------------------------------------: |
+|Reader / Backend|Frontend|Data / AI|
+| :-: | :-: | :-: |
 ![](https://avatars.githubusercontent.com/u/49567744?v=4?size=100) | ![](https://avatars.githubusercontent.com/u/65444249?v=4?size=120) | ![](https://avatars.githubusercontent.com/u/61009093?v=4?size=120) |
 |  [Kwon Soonchan](https://github.com/hyeonic)  |  [So Hyeonjin](https://github.com/gudonghee2000)  |  [Jang Hyunwoo](https://github.com/summerlunaa)  |
 
@@ -52,4 +52,9 @@
 
 ### ETC
 - 중간 발표자료 [pdf](./files/2-18.%20소마트리뷰%20(발표자료).pdf) [ppt](./files/리뷰메이트_중간발표자료%20(최종).pptx)
-- 
+- [정보 구조도](./files/정보%20구조도%20&%20시간%20예측.xlsx)
+- 사진첩
+
+|![](./image/사진첩/20230602.jpeg)|![](./image/사진첩/20230609.jpg)|![](./image/사진첩/20230610.jpg)|
+| :-: | :-: | :-: |
+|![](./image/사진첩/20230611.jpeg)|![](./image/사진첩/여행사인터뷰.jpg)|![](./image/사진첩/20230904.jpeg)|
