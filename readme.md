@@ -6,8 +6,7 @@
 ## 🔎 여행 리뷰 통합 관리 플랫폼
 # Review Mate 
 
-![Static Badge](https://img.shields.io/badge/-reviewmate.co.kr-009AAB?logo=google-chrome&logoColor=white&label=%20&labelColor=grey&link=https%3A%2F%2Fwww.reviewmate.co.kr%2F)
-
+[<img src="https://img.shields.io/badge/-reviewmate.co.kr-009AAB?logo=google-chrome&logoColor=white&label=%20&labelColor=grey" />](https://www.reviewmate.co.kr/)
 
 `#각자` `#핵심기술` `#적기` `#NLP` `#ABSA` `#GPT-4`
 
