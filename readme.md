@@ -8,7 +8,7 @@
 
 [<img src="https://img.shields.io/badge/-reviewmate.co.kr-009AAB?logo=google-chrome&logoColor=white&label=%20&labelColor=grey" />](https://www.reviewmate.co.kr/)
 
-`#각자` `#핵심기술` `#적기` `#NLP` `#ABSA` `#GPT-4`
+`#각자` `#핵심기술` `#적기` `#NLP` `#ABSA` `#GPT-4` `#Next.js` `#React.js`
 
 </div>
 
