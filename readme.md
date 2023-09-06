@@ -46,7 +46,7 @@
 |Reader / Backend|Frontend|Data / AI|
 | :-: | :-: | :-: |
 ![](https://avatars.githubusercontent.com/u/49567744?v=4?size=100) | ![](https://avatars.githubusercontent.com/u/65444249?v=4?size=120) | ![](https://avatars.githubusercontent.com/u/61009093?v=4?size=120) |
-|  [Kwon Soonchan](https://github.com/hyeonic)  |  [So Hyeonjin](https://github.com/gudonghee2000)  |  [Jang Hyunwoo](https://github.com/summerlunaa)  |
+|  [Kwon Soonchan](https://github.com/Kwon770)  |  [So Hyeonjin](https://github.com/hyeonjin25)  |  [Jang Hyunwoo](https://github.com/J-nowcow)  |
 
 
 
