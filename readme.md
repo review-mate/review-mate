@@ -35,11 +35,10 @@ AI: [리뷰 분석 ABSA 모델](https://github.com/review-mate/review-mate-ai-AB
 ![](image/서비스%20아키텍처.png)
 
 # 🛠 Tech Stacks
-### Back-end
-### Front-end
+### BE
+![reviewmate-be-stack.png](image%2Freviewmate-be-stack.png)
 
-### (사진 편집중)
-![](https://user-images.githubusercontent.com/11745691/197112888-c634aecc-fe5b-4087-94f9-cd4d0c4ab553.png) 
+### FE
    
 ### AI
 
