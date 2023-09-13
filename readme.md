@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![reviewmate_logo.jpg](image%2Freviewmate_logo.jpg)
+![reviewmate_top_logo.jpg](image%2Freviewmate_top_logo.jpg)
 
 ## 🔎 여행 리뷰 통합 관리 플랫폼
 ### Repositories
