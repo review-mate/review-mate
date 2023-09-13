@@ -15,7 +15,7 @@ AI: [리뷰 분석 ABSA 모델](https://github.com/review-mate/review-mate-ai-AB
 [<img src="https://img.shields.io/badge/-reviewmate.co.kr-009AAB?logo=google-chrome&logoColor=white&label=%20&labelColor=grey" />](https://www.reviewmate.co.kr/)
 [<img src="https://img.shields.io/badge/-reviewmate.co.kr-009AAB?logo=google-chrome&logoColor=white&label=%20&labelColor=grey" />](https://www.reviewmate.co.kr/)
 
-`#Next.js` `#React.js` `#SpringBoot` `#Kafka` `#NLP` `#ABSA` `#GPT-4`
+`#Next.js` `#React.js` `#SpringBoot` `#Kafka` `#NLP` `#ABSA` `#GPT-4` `#AWS` 
 
 </div>
 
